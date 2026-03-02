@@ -23,5 +23,5 @@ Marital status & home ownership trends
 Region-wise sales distribution
 
 ## Dashboard Preview 
-![Dashboard Screenshot 1}(SS1.png)
+![Dashboard Screenshot 1](SS1.png)
 ![Dashboard Screenshot 2](SS2.png)
