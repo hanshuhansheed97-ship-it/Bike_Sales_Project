@@ -8,6 +8,7 @@ This project analyzes bike sales data to understand customer demographics, incom
 
 
 Excel (Data Cleaning)
+
 Power BI (Dashboard & Visualization)
 
 📈 Key Insights
@@ -15,5 +16,12 @@ Power BI (Dashboard & Visualization)
 
 Income impact on bike purchases
 Age group analysis
+
 Marital status & home ownership trends
+
+
 Region-wise sales distribution
+
+## Dashboard Preview 
+![Dashboard Screenshot 1}(SS1.png)
+![Dashboard Screenshot 2](SS2.png)
